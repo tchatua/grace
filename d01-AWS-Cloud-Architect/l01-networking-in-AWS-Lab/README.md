@@ -1,6 +1,6 @@
 # Lab: Networking In AWS
 
-- Networking In AWS
+## Networking In AWS
 ```css
 We've seen the many networking options that are available in AWS. 
 These network options exist to provide flexibility but also support important business needs, 
@@ -14,7 +14,7 @@ Security has a concept referred to as "defense in depth,"
 which promotes multiple layers of defense such that a compromise of any one layer does not expose important assets.
 ```
 
-- The lab
+## The lab
 ```css
 Imagine a scenario where I have already created your VPC, 
 which consists of several public and private subnets. 
@@ -25,6 +25,9 @@ then create the NAT gateway separately and set up the route tables for the priva
 
 Here are more precise instructions for the lab:
 ```
+
+## Solution:
+
 ![alt text](image.png)
 ## Step 1: Create a VPC with subnets
 1. Go to the AWS Management Console.
