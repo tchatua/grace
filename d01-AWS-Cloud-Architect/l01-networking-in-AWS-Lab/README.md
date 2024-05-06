@@ -1,7 +1,7 @@
 # Lab: Networking In AWS
 
 - Networking In AWS
-```
+```css
 We've seen the many networking options that are available in AWS. 
 These network options exist to provide flexibility but also support important business needs, 
 such as security and network architecture best practices.
@@ -15,7 +15,7 @@ which promotes multiple layers of defense such that a compromise of any one laye
 ```
 
 - The lab
-```
+```css
 Imagine a scenario where I have already created your VPC, 
 which consists of several public and private subnets. 
 I decided that the private subnet now needs internet connectivity, so you must attach a NAT gateway.
